@@ -1,4 +1,4 @@
-# Hi <img src="https://i.ibb.co/CnmfDCz/Sakuta-Bunny-Wave.png" alt="Sakuta-Bunny-Wave" width = "29px"> I'm ChrolloRifat <img src="https://i.ibb.co/cJq7v7s/Mai-Hoodie.gif" width="40px">
+# Hi <img src="https://i.ibb.co/CnmfDCz/Sakuta-Bunny-Wave.png" alt="Sakuta-Bunny-Wave" width = "29px"> I'm ChrolloRifat <img src="https://i.ibb.co/cJq7v7s/Mai-Hoodie.gif" width="45px">
 
 ## About Me
 <table>
@@ -13,7 +13,7 @@
   
   ✨ I love to create different types of **contents**.
 <td >
-    <a href="https://app.daily.dev/ChrolloRifat"><img src="https://api.daily.dev/devcards/3ba68db2716c4cf1a6deee89bfe40bcb.png?r=ug0" alt="Mahmudul Hasan Rifat's Dev Card" width="300"/></a>
+   <a href="https://app.daily.dev/ChrolloRifat"><img src="https://api.daily.dev/devcards/3ba68db2716c4cf1a6deee89bfe40bcb.png?r=c6o" width="400" alt="Mahmudul Hasan Rifat's Dev Card"/></a>
   </td></tr>
 </table>
 
