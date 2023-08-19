@@ -1,4 +1,4 @@
-# Hi, I'm ChrolloRifat <img src="https://i.ibb.co/cJq7v7s/Mai-Hoodie.gif" width="40px">
+# Hi <img src="https://i.ibb.co/CnmfDCz/Sakuta-Bunny-Wave.png" alt="Sakuta-Bunny-Wave" width = "29px"> I'm ChrolloRifat <img src="https://i.ibb.co/cJq7v7s/Mai-Hoodie.gif" width="40px">
 
 ## About Me
 <table>
