@@ -20,7 +20,7 @@
 # [GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chrollorifat&theme=dracula&hide_border=true)
 <img src = "https://github-readme-activity-graph.vercel.app/graph?username=chrollorifat&theme=dracula&hide_border=true" >
 
-## Stats <img src="https://i.ibb.co/3BvySJW/statistics-2.png" alt="statistics-2" border="0">
+## Stats<img src="https://i.ibb.co/3BvySJW/statistics-2.png" alt="statistics-2" border="0" width ="32px">
 <hr>
 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChrolloRifat&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="ChrolloRifat" />  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ChrolloRifat&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="ChrolloRifat" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChrolloRifat&theme=highcontrast&hide_border=true" alt="ChrolloRifat" /> </p>
 
