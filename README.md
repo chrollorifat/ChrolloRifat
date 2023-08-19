@@ -17,7 +17,7 @@
   </td></tr>
 </table>
 
-# [GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chrollorifat&theme=dracula&hide_border=true)
+## [GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chrollorifat&theme=dracula&hide_border=true)
 <img src = "https://github-readme-activity-graph.vercel.app/graph?username=chrollorifat&theme=dracula&hide_border=true" >
 
 ## Stats <img src="https://i.ibb.co/3BvySJW/statistics-2.png" alt="statistics-2" border="0" width ="27px">
