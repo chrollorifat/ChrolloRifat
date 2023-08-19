@@ -1,4 +1,4 @@
-# Hi, I'm ChrolloRifat <img src="https://i.ibb.co/cJq7v7s/Mai-Hoodie.gif" width="29px">👋
+# Hi, I'm ChrolloRifat <img src="https://i.ibb.co/cJq7v7s/Mai-Hoodie.gif" width="32px">
 
 ## About Me
 <table>
