@@ -28,3 +28,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ChrolloRifat&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="ChrolloRifat" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChrolloRifat&theme=highcontrast&hide_border=true" alt="ChrolloRifat" /> </p>
 
+## Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
