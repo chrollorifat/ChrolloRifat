@@ -20,11 +20,6 @@
 </table>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chrollorifat&label=Profile%20views&color=0e75b6&style=flat" alt="chrollorifat" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrollorifat" alt="chrollorifat" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/chrollorif" target="blank"><img src="https://img.shields.io/twitter/follow/chrollorif?logo=twitter&style=for-the-badge" alt="chrollorif" /></a> </p>
 
 
 ### Blogs posts
@@ -62,13 +57,22 @@
 
 
 ## [GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chrollorifat&theme=dracula&hide_border=true)
-<img src = "https://github-readme-activity-graph.vercel.app/graph?username=chrollorifat&theme=dracula&hide_border=true" >
+<img src = "https://github-readme-activity-graph.vercel.app/graph?username=chrollorifat&theme=nord&hide_border=true" >
 
 ## Stats <img src="https://i.ibb.co/3BvySJW/statistics-2.png" alt="statistics-2" border="0" width ="22px">
 
 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChrolloRifat&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="ChrolloRifat" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ChrolloRifat&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="ChrolloRifat" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChrolloRifat&theme=highcontrast&hide_border=true" alt="ChrolloRifat" /> </p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chrollorifat&label=Profile%20views&color=0e75b6&style=flat" alt="chrollorifat" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrollorifat" alt="chrollorifat" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/chrollorif" target="blank"><img src="https://img.shields.io/twitter/follow/chrollorif?logo=twitter&style=for-the-badge" alt="chrollorif" /></a> </p>
+
+
 
 ## Recent Activity
 <!--START_SECTION:activity-->
