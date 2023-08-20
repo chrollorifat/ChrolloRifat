@@ -45,13 +45,13 @@
 
 
 ## [GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chrollorifat&theme=dracula&hide_border=true)
-<img src = "https://github-readme-activity-graph.vercel.app/graph?username=chrollorifat&theme=dracula&hide_border=true" >
+<img src = "https://github-readme-activity-graph.vercel.app/graph?username=chrollorifat&theme=algolia&hide_border=true" >
 
 ## Stats <img src="https://i.ibb.co/3BvySJW/statistics-2.png" alt="statistics-2" border="0" width ="22px">
 
-<p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChrolloRifat&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="ChrolloRifat" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ChrolloRifat&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="ChrolloRifat" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChrolloRifat&theme=highcontrast&hide_border=true" alt="ChrolloRifat" /> </p>
+<p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChrolloRifat&show_icons=true&theme=algolia&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="ChrolloRifat" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ChrolloRifat&show_icons=true&theme=algolia&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="ChrolloRifat" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChrolloRifat&theme=algolia&hide_border=true" alt="ChrolloRifat" /> </p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/chrollorifat"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chrollorifat" /></a><a href="https://ko-fi.com/chrollorifat"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="chrollorifat" /></a></p><br><br>
