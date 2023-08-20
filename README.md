@@ -44,11 +44,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/chrollorifat"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chrollorifat" /></a><a href="https://ko-fi.com/chrollorifat"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="chrollorifat" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrollorifat&show_icons=true&locale=en&layout=compact" theme="Nord" alt="chrollorifat" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrollorifat&show_icons=true&locale=en&layout=compact"&theme="Material Dark" alt="chrollorifat" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrollorifat&show_icons=true&locale=en" alt="chrollorifat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrollorifat&" alt="chrollorifat" /></p>
+
 
 
 
@@ -57,7 +57,7 @@
 
 
 ## [GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chrollorifat&theme=dracula&hide_border=true)
-<img src = "https://github-readme-activity-graph.vercel.app/graph?username=chrollorifat&theme=nord&hide_border=true" >
+<img src = "https://github-readme-activity-graph.vercel.app/graph?username=chrollorifat&theme=dracula&hide_border=true" >
 
 ## Stats <img src="https://i.ibb.co/3BvySJW/statistics-2.png" alt="statistics-2" border="0" width ="22px">
 
