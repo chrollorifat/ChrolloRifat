@@ -11,7 +11,7 @@
   
   🎯 My Goal is to Contribute to as many **open source project** as possible.
 
-   I am an _avid_ **linux** user.
+  🐧 I am an _avid_ **linux** user.
   
   ✨ I love to create different types of **contents**.
 <td >
