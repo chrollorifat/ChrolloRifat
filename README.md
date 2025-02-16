@@ -49,9 +49,9 @@
 
 ## Stats <img src="https://i.ibb.co/3BvySJW/statistics-2.png" alt="statistics-2" border="0" width ="22px">
 
-<p align="center"> ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrolloRifat&show_icons=true&layout=compact&langs_count=16&theme=dracula&hidden_border=true) 
+![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrolloRifat&show_icons=true&layout=compact&langs_count=16&theme=dracula&hidden_border=true) 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ChrolloRifat&show_icons=true&theme=catppuccin_mocha&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="ChrolloRifat" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChrolloRifat&theme=algolia&hide_border=true" alt="ChrolloRifat" /> </p>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChrolloRifat&theme=algolia&hide_border=true" alt="ChrolloRifat" />
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.paypal.Me/rifthephoneix"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chrollorifat" /></a><a href="https://ko-fi.com/chrollorifat"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="chrollorifat" /></a></p><br><br>
