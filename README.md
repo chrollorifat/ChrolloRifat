@@ -49,7 +49,7 @@
 
 ## Stats <img src="https://i.ibb.co/3BvySJW/statistics-2.png" alt="statistics-2" border="0" width ="22px">
 
-<p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChrolloRifat&show_icons=true&theme=catppuccin_mocha&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="ChrolloRifat" />
+<p align="center"> ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrolloRifat&show_icons=true&layout=compact&langs_count=16&theme=dracula&hidden_border=true) 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ChrolloRifat&show_icons=true&theme=catppuccin_mocha&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="ChrolloRifat" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChrolloRifat&theme=algolia&hide_border=true" alt="ChrolloRifat" /> </p>
 
