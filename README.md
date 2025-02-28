@@ -7,13 +7,14 @@
     
   🎓 I am currently pursuing my **Bachelor's in Computer Science & Engineering**.
     
-  🌱 I am currently learning **Java** and also interested in **Web Development**.
+  🌱 I am an **Astrophysics** enthusiast and want to do something related to this in the future.
   
-  🎯 My Goal is to Contribute to as many **open source project** as possible.
+  🎯 My Goal is to Contribute to **open source projects** and **physics**.
 
-  🐧 I am an _avid_ **linux** user.
+  🐧 I am an _avid_ **linux** user. I use ***Arch*** & ***NixOS***, btw.
   
-  ✨ I love to create different types of **contents**.
+  ✨ I love learning foreign ***languages*** both **human** and **programming**.
+  
 <td >
    <a href="https://app.daily.dev/ChrolloRifat"><img src="https://api.daily.dev/devcards/3ba68db2716c4cf1a6deee89bfe40bcb.png?r=c6o" width="300" alt="Mahmudul Hasan Rifat's Dev Card"/></a>
   </td></tr>
