@@ -23,8 +23,8 @@
 
 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+<!--### Blogs posts
+ BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 
@@ -45,12 +45,12 @@
 
 
 
-## [GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chrollorifat&theme=dracula&hide_border=true)
+## [GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chrollorifat&theme=catppuccin_mocha&hide_border=true)
 <img src = "https://github-readme-activity-graph.vercel.app/graph?username=chrollorifat&theme=catppuccin_mocha&hide_border=true" > 
 
 ## Stats <img src="https://i.ibb.co/3BvySJW/statistics-2.png" alt="statistics-2" border="0" width ="22px">
 
-![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrolloRifat&show_icons=true&layout=compact&langs_count=16&theme=dracula&hidden_border=true) <br/>
+![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrolloRifat&show_icons=true&layout=compact&langs_count=16&theme=catppuccin_mocha&hidden_border=true) <br/>
  ![](https://github-readme-stats.vercel.app/api?username=ChrolloRifat&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
  ![](https://nirzak-streak-stats.vercel.app/?user=ChrolloRifat&theme=catppuccin_mocha&hide_border=false)<br/>
 
