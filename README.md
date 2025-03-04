@@ -46,13 +46,14 @@
 
 
 ## [GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chrollorifat&theme=dracula&hide_border=true)
-<img src = "https://github-readme-activity-graph.vercel.app/graph?username=chrollorifat&theme=catppuccin_mocha&hide_border=true" >
+<img src = "https://github-readme-activity-graph.vercel.app/graph?username=chrollorifat&theme=catppuccin_mocha&hide_border=true" > 
 
 ## Stats <img src="https://i.ibb.co/3BvySJW/statistics-2.png" alt="statistics-2" border="0" width ="22px">
 
-![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrolloRifat&show_icons=true&layout=compact&langs_count=16&theme=dracula&hidden_border=true) 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ChrolloRifat&show_icons=true&theme=catppuccin_mocha&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="ChrolloRifat" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChrolloRifat&theme=algolia&hide_border=true" alt="ChrolloRifat" />
+![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrolloRifat&show_icons=true&layout=compact&langs_count=16&theme=dracula&hidden_border=true) <br/>
+ ![](https://github-readme-stats.vercel.app/api?username=ChrolloRifat&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
+ ![](https://nirzak-streak-stats.vercel.app/?user=ChrolloRifat&theme=catppuccin_mocha&hide_border=false)<br/>
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.paypal.Me/rifthephoneix"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chrollorifat" /></a><a href="https://ko-fi.com/chrollorifat"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="chrollorifat" /></a></p><br><br>
@@ -65,8 +66,11 @@
 
 <p align="left"> <a href="https://twitter.com/chrollorif" target="blank"><img src="https://img.shields.io/twitter/follow/chrollorif?logo=twitter&style=for-the-badge" alt="chrollorif" /></a> </p>
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-
-## Recent Activity
-<!--START_SECTION:activity-->
+<!--## Recent Activity
+START_SECTION:activity-->
 <!--END_SECTION:activity-->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ChrolloRifat&limit=9&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
+
