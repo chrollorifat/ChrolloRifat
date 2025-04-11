@@ -50,7 +50,7 @@
 
 ## Stats <img src="https://i.ibb.co/3BvySJW/statistics-2.png" alt="statistics-2" border="0" width ="22px">
 
-![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrolloRifat&show_icons=true&layout=compact&langs_count=16&theme=catppuccin_mocha&hidden_border=true) <br/>
+![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrolloRifat&show_icons=true&layout=compact&langs_count=20&theme=catppuccin_mocha&hidden_border=true) <br/>
  ![](https://github-readme-stats.vercel.app/api?username=ChrolloRifat&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
  ![](https://nirzak-streak-stats.vercel.app/?user=ChrolloRifat&theme=catppuccin_mocha&hide_border=false)<br/>
 
@@ -72,5 +72,5 @@
 START_SECTION:activity-->
 <!--END_SECTION:activity-->
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ChrolloRifat&limit=9&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ChrolloRifat&limit=12&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
 
